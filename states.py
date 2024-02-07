@@ -1,0 +1,27 @@
+NW
+Washington
+7530552
+SW
+California
+39776830
+SE
+Florida
+21312211
+NE
+New York
+19862512
+SE
+Georgia
+10545138
+SW
+Arizona
+7123898
+SE
+Alabama
+4888949
+NW
+Oregon
+4199563
+NE
+Connecticut
+3588683
